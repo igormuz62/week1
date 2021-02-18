@@ -2,7 +2,7 @@
   "headers": {
   "/*": {
     "X-Author": "igormuz62",
-    "Access-Control-Allow_Origin": "*"
+    "Access-Control-Allow-Origin": "*"
     }
   }
 }
